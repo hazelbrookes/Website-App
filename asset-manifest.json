@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.js": "/Website-App/static/js/main.d442a466.chunk.js",
+    "main.js.map": "/Website-App/static/js/main.d442a466.chunk.js.map",
+    "runtime-main.js": "/Website-App/static/js/runtime-main.36e2205b.js",
+    "runtime-main.js.map": "/Website-App/static/js/runtime-main.36e2205b.js.map",
+    "static/js/2.9ce066a4.chunk.js": "/Website-App/static/js/2.9ce066a4.chunk.js",
+    "static/js/2.9ce066a4.chunk.js.map": "/Website-App/static/js/2.9ce066a4.chunk.js.map",
+    "static/js/3.7f519802.chunk.js": "/Website-App/static/js/3.7f519802.chunk.js",
+    "static/js/3.7f519802.chunk.js.map": "/Website-App/static/js/3.7f519802.chunk.js.map",
+    "index.html": "/Website-App/index.html",
+    "static/js/2.9ce066a4.chunk.js.LICENSE.txt": "/Website-App/static/js/2.9ce066a4.chunk.js.LICENSE.txt",
+    "static/media/avatar.6f8b4b63.PNG": "/Website-App/static/media/avatar.6f8b4b63.PNG",
+    "static/media/hub.abffb110.jpg": "/Website-App/static/media/hub.abffb110.jpg",
+    "static/media/kraken.be5b5dcd.png": "/Website-App/static/media/kraken.be5b5dcd.png",
+    "static/media/mashland.4f00c26c.png": "/Website-App/static/media/mashland.4f00c26c.png",
+    "static/media/rime.e0f4fc3c.png": "/Website-App/static/media/rime.e0f4fc3c.png",
+    "static/media/shark.2db5d42a.png": "/Website-App/static/media/shark.2db5d42a.png",
+    "static/media/spleefhubrender.4a1e7843.png": "/Website-App/static/media/spleefhubrender.4a1e7843.png",
+    "static/media/survivalhome.6261fc35.png": "/Website-App/static/media/survivalhome.6261fc35.png",
+    "static/media/teapot.204dbc4c.png": "/Website-App/static/media/teapot.204dbc4c.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.36e2205b.js",
+    "static/js/2.9ce066a4.chunk.js",
+    "static/js/main.d442a466.chunk.js"
+  ]
+}
